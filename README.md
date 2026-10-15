@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Alexandre!
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 Qeum sou eu
 
 - 💼 Especialista / Técnico de Tecnologia da Informação
 - ⏳ Mais de **30 anos** de carreira em TI
